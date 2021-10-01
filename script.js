@@ -1,0 +1,1 @@
+const motivationalMesseges = ["Good, better, best. Never let it rest. 'Til your good is better and your better is best.", "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart.", "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt."]
