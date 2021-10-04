@@ -16,10 +16,10 @@ The aim of this Project, is to build a message generator program that prints ran
 ## Techologies
 This project uses the languages JavaScript, HTML and CSS.
 For the development of this project has also been used:
--Git and GitHub
--VisualStudio Code
--Node.js
--Bash
+1.Git and GitHub
+2.VisualStudio Code
+3.Node.js
+4.Bash
 
 # Examples of use
 
