@@ -4,7 +4,7 @@
 * [Introduction](#Introduction)
 * [Authors](#Authors)
 * [Technologies](#Technologies)
-* [Examples of use](#Examples of use)
+* [Examples](#Examples of use)
 
 ## Introduction
 The aim of this Project, is to build a message generator program that prints random messages and can be deployed in a browser like Google Chrome.
