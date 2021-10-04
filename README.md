@@ -13,7 +13,7 @@ The aim of this Project, is to build a message generator program that prints ran
 
 
 
-## Techologies
+## Technologies
 This project uses the languages:
 * JavaScript
 * HTML
