@@ -1,6 +1,6 @@
 # Messaga-generator-App - "Mixed-messages"
 
-##Table of contents
+## Table of contents
 * [Introduction](#Introduction)
 * [Authors](#Authors)
 * [Technologies](#Technologies)
