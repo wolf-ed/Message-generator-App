@@ -18,6 +18,8 @@ This project uses the languages:
 * JavaScript
 * HTML
 * CSS.
+
+
 For the development of this project has also been used:
 * Git and GitHub
 * VisualStudio Code
