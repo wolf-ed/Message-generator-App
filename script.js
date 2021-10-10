@@ -10,6 +10,7 @@ function createMessage (author, quote) {
     return obj;
 }
 
+// Add message object to object array
 function addMessage (author, quote) {
     messageObjArray.push(createMessage(author, quote));
 }
