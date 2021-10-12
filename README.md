@@ -1,4 +1,4 @@
-# Messaga-generator-App - "Mixed-messages"
+# Message-generator-App - "Mixed-messages"
 
 ## Table of contents
 * [Introduction](#Introduction)
@@ -7,24 +7,26 @@
 * [Examples](#Examples)
 
 ## Introduction
-The aim of this Project, is to build a message generator program that prints random messages and can be deployed in a browser like Google Chrome.
+The aim of this Project, is to build a message generator program that prints quotes and can be deployed in a browser like Google Chrome.
 
 ## Authors
-
+* Yohei Demachi
+* Muluken
+* Ed Wolf - scrum master
 
 
 ## Technologies
-This project uses the languages:
+* Scrum-Agile
 * JavaScript
 * HTML
 * CSS.
-
-
-For the development of this project has also been used:
 * Git and GitHub
 * VisualStudio Code
 * Node.js
 * Bash
+* trello.com
 
 # Examples of use
 
+![1example](https://user-images.githubusercontent.com/91706719/136922961-ffff49d8-6396-4bc5-9d4a-3254b116e74e.png)
+![2example](https://user-images.githubusercontent.com/91706719/136922984-c2a373ff-8f2a-42cc-8a33-21e4e7c3cb92.png)
