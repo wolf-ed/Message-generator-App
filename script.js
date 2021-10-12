@@ -29,7 +29,20 @@ let generatedMessage = () => {
     return messageObjArray[randomIndex];
 }
 
-let returnedObj = generatedMessage();
 
-console.log(`${returnedObj.author} says: `)
-console.log(`${returnedObj.quote}`)
+let element = document.getElementById('placeToQuote')
+
+let buttonSelector = document.querySelector('button');
+let h2Quote = document.querySelector('h2');
+
+
+ buttonSelector.onclick =  function(){
+    let returnedObj = generatedMessage();
+     //document.body.firstChild.innerHTML = "<h2>"+ returnedObj.quote +"</h2>";
+     document.getElementById('PlaceToPrint').innerHTML = "<h2>"+ returnedObj.quote 
+     +"<br><br> by: " + returnedObj.author + "</h2>";
+    }
+
+
+// console.log(`${returnedObj.author} says: `)
+// console.log(`${returnedObj.quote}`)
